@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Nobu, a CS student at Waseda University. I am currently studying Frontend Web Development with TypeScript and React.
+Loved everything about computers since building a PC at age 10. Currently aspiring to become a Frontend developer, with a focus on TypeScript and React. Strong CS fundamentals through Waseda University.
 
 
 ## 🌐 Socials:
