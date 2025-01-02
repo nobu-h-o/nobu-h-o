@@ -1,5 +1,5 @@
 # 💫 About Me:
-Loved everything about computers since building a PC at age 10. Currently aspiring to become a Frontend developer, with a focus on TypeScript and React. Strong CS fundamentals through Waseda University.
+Loved everything about computers since building a PC at age 10. Aspiring Software Engineer, with a focus on Web development. Strong CS fundamentals through Waseda University.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nobu-h-o&label=Profile%20views&color=0e75b6&style=flat" alt="nobu-h-o" /> </p>
 
 ## 🌐 Socials:
