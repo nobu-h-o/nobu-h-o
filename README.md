@@ -1,6 +1,6 @@
 # 💫 About Me:
 Loved everything about computers since building a PC at age 10. Aspiring Software Engineer with a focus on Web development. Strong CS fundamentals through Waseda University.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nobu-h-o&label=Profile%20views&color=0e75b6&style=flat" alt="nobu-h-o" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nobu-h-o&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="nobu-h-o" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nobuhiro-oto/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nobu_h_o) 
