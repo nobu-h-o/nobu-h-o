@@ -10,6 +10,6 @@ Loved everything about computers since building a PC at age 10. Aspiring Softwar
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nobu-h-o&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nobu-h-o&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nobu-h-o&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-amber-ten-36.vercel.app/api/top-langs/?username=nobu-h-o&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
